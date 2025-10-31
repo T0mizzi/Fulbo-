@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1761348600 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\fecha.cpp
+	"Fecha.h"
+
+1761348582 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\fecha.h
+	<string>
+
+1761525395 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\main.cpp
+	"AppMenu.h"
+
+1761348667 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\club.cpp
+	"Club.h"
+	<cstring>
+
+1761358930 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\club.h
+	"Fecha.h"
+
+1761784582 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\jugador.cpp
+	"Jugador.h"
+	<cstring>
+
+1761784552 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\jugador.h
+	"Fecha.h"
+
+1761359391 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\menues.cpp
+	<iostream>
+	"Menues.h"
+
+1761348547 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\gol.cpp
+	"Gol.h"
+	<cstring>
+
+1761442240 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\gol.h
+
+1761359363 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\menues.h
+
+1761786760 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1761442462 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\menu.h
+
+1761523908 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\archivogol.cpp
+	"ArchivoGol.h"
+	<cstdio>
+	<iostream>
+
+1761442124 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\archivogol.h
+	"Gol.h"
+	<string>
+
+1761524563 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\golarchivo.cpp
+	"GolArchivo.h"
+	<cstdio>
+	<iostream>
+
+1761442124 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\golarchivo.h
+	"Gol.h"
+	<string>
+
+1761524573 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\golmanager.cpp
+	<iostream>
+	<cstring>
+	"GolManager.h"
+
+1761524693 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\golmanager.h
+	"GolArchivo.h"
+
+1761524581 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\golmenu.cpp
+	<iostream>
+	"GolMenu.h"
+
+1761524595 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\golmenu.h
+	"Menu.h"
+	"GolManager.h"
+
+1761525369 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+
+1761873013 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\appmenu.h
+	"Menu.h"
+	"GolMenu.h"
+
+1761870381 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\jugadormenu.h
+
+1761868369 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\jugadormanager.h
+	"JugadorArchivo.h"
+
+1761787379 c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\jugadorarchivo.h
+	<string>
+	"Jugador.h"
+
+1761787356 source:c:\users\facur\onedrive\escritorio\facultad alejo\utn\recursada\trabajo_integrador\fulbo\jugadorarchivo.cpp
+	"JugadorArchivo.h"
+	<cstdio>
+
